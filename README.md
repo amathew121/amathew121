@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working at **Infoblox**
+- ⚙️ I use daily: `.go`, `.yaml`, `.java`
+- 🌱 I’m currently learning NodeJs
+- 📫 How to reach me: https://www.linkedin.com/in/amathew121/
+
+[![Ashish's GitHub stats](https://github-readme-stats.vercel.app/api?username=amathew121)](https://github.com/anuraghazra/github-readme-stats)
